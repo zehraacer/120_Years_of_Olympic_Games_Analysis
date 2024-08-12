@@ -1,0 +1,4 @@
+Field,Description
+NOC,National Olympic Committee 3 letter code
+region,Country name used for geospatial mapping
+notes,"Real country name if ""region"" isn't an exact match"
